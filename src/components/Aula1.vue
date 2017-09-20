@@ -5,7 +5,7 @@
       <li><a href="https://vuejs.org" target="_blank">Aula 1</a></li>
       <li><router-link to="Aula2">Aula 2</router-link></li>
       <li><router-link to="Aula3">Aula 3</router-link></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">Aula 4</a></li>
+      <li><router-link to="Aula3">Aula 4</a></li>
     </ul>
     <router-link to="/">Inicio</router-link>
   </div>

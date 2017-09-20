@@ -5,6 +5,7 @@
 		<Aula3gif> </Aula3gif><br>
 		<router-link to="Aula1"> Aula 1 </router-link>
 		<router-link to="Aula2"> Aula 2 </router-link>
+		<router-link to="Aula4"> Aula 4 </router-link>
 
 	</div>
 </template>
